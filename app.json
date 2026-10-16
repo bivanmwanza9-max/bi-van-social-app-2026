@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "BI_VAN",
+    "slug": "bi-van",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#080808"
+    },
+    "android": {
+      "package": "com.bivan.shortvideo",
+      "adaptiveIcon": {
+        "backgroundColor": "#080808"
+      }
+    }
+  }
+}
